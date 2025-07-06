@@ -1,78 +1,103 @@
-# 💡 Tamizhan Skills – AI/ML Internship Projects 🚀
+# 🌟 Tamizhan Skills - RISE Internship (Machine Learning & AI)
 
-Welcome to the official repository for my internship under **Tamizhan Skills**. This repository showcases the end-to-end development of real-world AI/ML projects, covering both **Computer Vision** and **Natural Language Processing**, built using Python, TensorFlow, Scikit-learn, Streamlit, and more.
+Welcome to my submission for the **RISE (Real-time Internship & Skill Enhancement)** program conducted by [Tamizhan Skills](https://www.tamizhanskills.com).  
+This repository showcases my completed real-world projects in **Machine Learning and AI**, built during this hands-on, beginner-friendly internship program.
 
 ---
 
-## 📁 Projects Included
+## 🚀 Internship Overview
 
-### 🌿 Project 6 – Plant Disease Detection (CNN + Streamlit)
-Detects multiple plant leaf diseases using a custom-trained **Convolutional Neural Network** on the [PlantVillage Dataset].
+**RISE** by Tamizhan Skills is a free internship initiative aimed at helping students gain real-world practical skills in emerging tech. This program offered:
 
-**Tech Stack:**  
-`TensorFlow` • `Keras` • `OpenCV` • `Streamlit`
+- ✅ Real-time industry project experience
+- ✅ 100% Free learning and certification
+- ✅ Mentor guidance and learning materials
+- ✅ Perfect for beginners with no prior experience
 
-🔹 Upload a leaf image  
-🔹 Real-time prediction with confidence  
-🔹 Clean and simple web interface
+---
 
-📂 Folder: `Project 6/`  
-📁 Contents:  
-- `plant_disease_detection.ipynb` – training notebook  
-- `app.py` – Streamlit frontend  
-- `model.h5` – trained CNN model
+## 📁 Repository Structure
+
+This GitHub repo includes all three major projects built during the internship:
+
+| Project No. | Title                              | Folder Name   | Status        |
+|-------------|------------------------------------|---------------|---------------|
+| Project 6   | 🌿 Plant Disease Detection          | `Project 6/`  | ✅ Completed |
+| Project 7   | 😊 Emotion Detection from Text      | `Project 7/`  | ✅ Completed |
+| Project 8   | 📈 Stock Price Prediction using LSTM | `Project 8/`  | ✅ Completed |
+
+Each folder includes:
+- 📄 Jupyter Notebooks and `.py` scripts
+- 🧠 Trained models (`.pkl`, `.h5`)
+- 🎯 Streamlit `app.py` UI for interactive demos
+- 📊 Visuals and model evaluation outputs
+
+---
+
+## 🔍 Project Summaries
+
+### 🌿 Project 6 – Plant Disease Detection (CNN)
+- **Goal:** Classify plant leaf images into disease categories
+- **Model:** Convolutional Neural Network (CNN) built with TensorFlow
+- **Dataset:** PlantVillage dataset (custom structure)
+- **Frontend:** Streamlit-based real-time leaf image upload + prediction
+- **Use case:** Agriculture tech, crop health diagnostics
 
 ---
 
 ### 😊 Project 7 – Emotion Detection from Text (NLP)
-Predicts human emotions like joy, sadness, anger, etc. from raw user input using classic NLP techniques.
-
-**Tech Stack:**  
-`Scikit-learn` • `Logistic Regression` • `TF-IDF` • `Streamlit`
-
-🔹 Enter a sentence  
-🔹 Get emotion prediction instantly  
-🔹 Trained on custom-labeled emotion dataset
-
-📂 Folder: `Project 7/`  
-📁 Contents:  
-- `train_model.ipynb`  
-- `app.py`  
-- `emotion_model.pkl`, `vectorizer.pkl`
+- **Goal:** Detect human emotions like joy, sadness, anger, etc. from input sentences
+- **Model:** Logistic Regression using TF-IDF
+- **Dataset:** Text samples with labeled emotions
+- **Frontend:** Streamlit UI for emotion prediction
+- **Use case:** Chatbots, feedback analysis, sentiment tracking
 
 ---
 
-### 📈 Project 8 – Stock Price Prediction (LSTM)
-Uses **LSTM neural networks** to forecast stock prices based on historical data from Yahoo Finance.
-
-**Tech Stack:**  
-`TensorFlow` • `Keras` • `yfinance` • `MinMaxScaler`
-
-🔹 Uses past 60 days to predict future price  
-🔹 Graphs for comparison  
-🔹 Optional Streamlit dashboard
-
-📂 Folder: `Project 8/`  
-📁 Contents:  
-- `Stock_Price_Prediction.ipynb`  
-- `model.h5`, `scaler.save`  
-- `app.py` *(optional)*
+### 📈 Project 8 – Stock Market Prediction (LSTM)
+- **Goal:** Predict stock closing prices based on historical trends
+- **Model:** LSTM neural network
+- **Dataset:** Yahoo Finance stock price data (AAPL, etc.)
+- **Frontend:** Optional Streamlit dashboard
+- **Use case:** Finance, algorithmic trading insights
 
 ---
 
-## 🛠 Installation & Usage
+## 🏁 Final Outcome
 
-```bash
-# Clone the repo
-git clone https://github.com/SatyaPrakash252/Tamizhan-Skills.git
-cd Tamizhan-Skills
+- ✅ Built 3 complete AI/ML projects
+- ✅ Delivered working models + interactive UIs
+- ✅ Demonstrated real-world applications of AI
+- ✅ Gained experience with DL (CNN, LSTM), NLP, and deployment tools
 
-# Create a virtual environment
-python -m venv .venv
-.venv\\Scripts\\activate     # for Windows
+---
 
-# Install required packages
-pip install -r requirements.txt
+## 📜 Certification & Recognition
 
-# To run Streamlit apps
-streamlit run Project7/app.py
+This internship was successfully completed under **Tamizhan Skills**, and is recognized with an official certificate.  
+The program is backed by industrial relevance and supported by partners like **Wipro**.
+
+---
+
+## 🙋 About Me
+
+**Intern:** Satya Prakash  
+📧 Email: [satyaprakashrout435@gmail.com](mailto:satyaprakashrout435@gmail.com)  
+🔗 GitHub: [SatyaPrakash252](https://github.com/SatyaPrakash252)
+
+---
+
+## 🌐 Thanks & Acknowledgment
+
+Gratitude to **Tamizhan Skills** for offering this valuable opportunity, completely free of cost — empowering students like me to build practical ML solutions and gain internship experience.
+
+> “Learn by doing. Grow by solving.” 💪
+
+---
+
+## 🔗 Stay Connected
+
+📍 Website: [Tamizhan Skills](https://www.tamizhanskills.com)  
+📧 Email: contact@tamizhanskills.com  
+📱 Phone: +91 6383418100  
+📷 Instagram: [@tamizhanskills](https://instagram.com/tamizhanskills)
