@@ -5,14 +5,6 @@
 A deep learning-based web application for detecting plant diseases from leaf images using a **Convolutional Neural Network (CNN)**, built and deployed with **Streamlit**.
 
 ---
-
-## 📸 Demo
-
-<img src="https://user-images.githubusercontent.com/your-image-url/demo.gif" alt="Demo" width="100%"/>
-![image](https://github.com/user-attachments/assets/81bd882b-ba20-4a43-b400-ff807ac344c3)<!-- Optional demo GIF -->
-![image](https://github.com/user-attachments/assets/1201c38c-14cf-45c9-a584-c0beefaa74aa)
-
-
 ---
 
 ## 🧪 Features
