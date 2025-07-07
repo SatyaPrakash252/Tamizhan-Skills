@@ -91,8 +91,8 @@ Special thanks to **Damizan Skills** and the **RISE Internship** for enabling th
 ## 📬 Contact
 
 **Satya Prakash Rout**  
-📧 [YourEmail@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+📧 [satyaprakashrout435@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/satya-prakash-rout-923393289/)  
 🔍 NLP | ML | AI Enthusiast | Open to Collaboration
 
 ---
