@@ -73,11 +73,6 @@ This project was developed as part of the **RISE Internship Program by Damizan S
 
 ---
 
-## 📷 Screenshots
-
-![App Screenshot](https://your-image-link-if-hosted.com)
-
----
 
 ## 🎓 What I Learned
 
