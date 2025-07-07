@@ -55,7 +55,7 @@ This project was developed as part of the **RISE Internship Program by Damizan S
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/stock-price-lstm.git
+   git clone https://github.com/SatyaPrakash252/stock-price-lstm.git
    cd stock-price-lstm
    ```
 
