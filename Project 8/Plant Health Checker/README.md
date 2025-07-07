@@ -53,9 +53,6 @@ Tomato___Spider_mites_Two_spotted_spider_mite
 ✅ Result is displayed with confidence score.
 
 📁 Project Structure
-bash
-Copy
-Edit
 📦 Plant Health Checker/
  ┣ 📜 app.py                  # Streamlit app
  ┣ 📜 plant_disease_multiclass_model.h5  # Trained CNN model
@@ -74,32 +71,16 @@ Edit
 
 🚀 Getting Started
 1. Clone the Repo
-bash
-Copy
-Edit
 git clone https://github.com/your-username/plant-disease-detector.git
 cd plant-disease-detector
 2. Create a Virtual Environment
-bash
-Copy
-Edit
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 3. Install Dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
 If requirements.txt is not available, manually install:
-
-bash
-Copy
-Edit
 pip install streamlit tensorflow pillow numpy
 4. Run the App
-bash
-Copy
-Edit
 streamlit run app.py
 📌 Example Output
 Uploaded Image	Predicted Class
