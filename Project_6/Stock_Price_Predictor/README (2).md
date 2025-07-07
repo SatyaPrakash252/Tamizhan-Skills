@@ -96,9 +96,9 @@ Big thanks to **Damizan Skills** and the **RISE Internship Program** for the gui
 
 ## 📬 Contact
 
-**Satya Prakash Rout**  
-📧 [YourEmail@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+**Satya Prakash Rout**
+📧 [satyaprakashrout435@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/satya-prakash-rout-923393289/)  
 🐍 Passionate about AI | Open to opportunities
 
 ---
